@@ -1,0 +1,311 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mys",
+				"mysqli_query"
+			],
+			[
+				"font",
+				"font"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"PADDI",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"j",
+				"object-position"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"te",
+				"text-color"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"border-col",
+				"border-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 73.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sass",
+				"Build With: SASS"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: kins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"terminu",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"Package Control: i ns",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package ",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 490.0
+	},
+	"console":
+	{
+		"height": 100.800003052,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/ThriftHub/php/component.php",
+		"/C/xampp/htdocs/ThriftHub/php/CreateDB.php",
+		"/C/xampp/htdocs/ThriftHub/DBtry.php",
+		"/C/xampp/htdocs/try/shopee.php",
+		"/C/xampp/htdocs/shoppingcart/php/component.php",
+		"/C/xampp/htdocs/try/php/coco.php",
+		"/C/xampp/htdocs/ThriftHub/discountstyle.scss",
+		"/C/xampp/htdocs/ThriftHub/style.css",
+		"/C/xampp/htdocs/ThriftHub/header.php",
+		"/C/xampp/htdocs/ThriftHub/php/CreateDB",
+		"/C/xampp/htdocs/ThriftHub/login.php",
+		"/C/xampp/htdocs/ThriftHub/backend/logout.php",
+		"/C/xampp/htdocs/ThriftHub/database.php",
+		"/C/xampp/htdocs/ThriftHub/backend/register_db.php",
+		"/C/xampp/htdocs/ThriftHub/signup.php",
+		"/C/xampp/htdocs/ThriftHub/backend/login_db.php",
+		"/C/xampp/htdocs/shoppingcart/cart.php",
+		"/C/xampp/htdocs/shoppingcart/index.php",
+		"/C/xampp/htdocs/shoppingcart/php/header.php",
+		"/C/xampp/htdocs/ThriftHub/home.php",
+		"/C/VertrigoServ/www/shoppingcart/php/component.php",
+		"/C/VertrigoServ/www/ThriftHub/php/component.php",
+		"/C/VertrigoServ/www/ThriftHub/homepage.php",
+		"/C/VertrigoServ/www/ThriftHub/header.php",
+		"/C/VertrigoServ/www/Online product/index.html",
+		"/C/VertrigoServ/www/ThriftHub/home.php",
+		"/C/Users/acer/node_modules/bootstrap/scss/_variables.scss",
+		"/C/VertrigoServ/www/ThriftHub/signup.php",
+		"/C/Users/acer/Downloads/register.php",
+		"/C/VertrigoServ/www/ThriftHub/1.php",
+		"/C/VertrigoServ/www/ThriftHub/2.php",
+		"/C/VertrigoServ/www/ThriftHub/sass/main.scss",
+		"/C/VertrigoServ/www/ThriftHub/index.php",
+		"/C/Users/acer/sass/main.scss",
+		"/C/VertrigoServ/www/Carousel/index.php",
+		"/C/Users/acer/OneDrive/Desktop/THRIFT HUB/qwer.php",
+		"/C/Users/acer/package.json",
+		"/C/Users/acer/AppData/Roaming/Sublime Text 3/Packages/User/Node.sublime-build",
+		"/C/Users/acer/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/VertrigoServ/www/example/homepage.php",
+		"/C/VertrigoServ/www/example/bootstrap-5.1.3-dist/css/style.css",
+		"/C/VertrigoServ/www/example/index.php",
+		"/C/VertrigoServ/www/example/pages/homepage.php",
+		"/C/VertrigoServ/www/example/bootstrap-5.1.3-dist/css/style",
+		"/C/VertrigoServ/www/mywebpage/index.php",
+		"/C/VertrigoServ/www/mywebpage2/index.php",
+		"/C/VertrigoServ/www/mywebpage/qwert.php",
+		"/C/VertrigoServ/www/example/homepage",
+		"/C/VertrigoServ/www/nusja/index.php",
+		"/C/VertrigoServ/www/sample2/index.php",
+		"/C/VertrigoServ/www/sample/index.php",
+		"/C/VertrigoServ/www/mywebpage/css/bootstrap.css",
+		"/C/VertrigoServ/www/mywebpage/css/index"
+	],
+	"find":
+	{
+		"height": 29.6
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.6
+	},
+	"input":
+	{
+		"height": 42.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "shopee.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
